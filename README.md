@@ -1,4 +1,4 @@
-# Stock Market Prediction Web App Developed with Streamlit
+# Stock Market Prediction Web App
 
 ### Demo: <a href="https://predictable.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></img><a> 
 
@@ -82,8 +82,4 @@ Contributions are welcome! If you'd like to enhance the app or fix any issues, p
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- Special thanks to the creators of Streamlit, Prophet, yfinance, Plotly, and scikit-learn.
-
-Happy predicting!
+Happy predicting!😄
