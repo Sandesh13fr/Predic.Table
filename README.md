@@ -1,6 +1,6 @@
 # Stock Market Prediction Web App Developed with Streamlit
 
-#### TODO: App Icon
+### Demo: <a href="https://predictable.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></img><a> 
 
 This web application is designed to predict stock market trends using machine learning models and visualizing the results with Streamlit.
 
@@ -72,7 +72,7 @@ This web application is designed to predict stock market trends using machine le
 
 ## Screenshots
 
-#### TODO: App Screenshots
+<img src="https://iili.io/FigCfsa.md.png" alt="FigCfsa.md.png" border="0">
 
 ## Contributing
 
