@@ -72,7 +72,7 @@ This web application is designed to predict stock market trends using machine le
 
 ## Screenshots
 
-<img src="https://iili.io/FigCfsa.md.png" alt="FigCfsa.md.png" border="0">
+<img src="https://i.postimg.cc/MKXYzN5V/image.png" alt="FigCfsa.md.png" border="2" style="width:100%;height:100%;">
 
 ## Contributing
 
