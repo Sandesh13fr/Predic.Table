@@ -1,4 +1,4 @@
-# Stock Market Prediction Web App
+# Stock Market Prediction Web App using ML
 
 ### Demo: <a href="https://predictable.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></img><a> 
 
